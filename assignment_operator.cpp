@@ -1,0 +1,2 @@
+// assignment operator is used to assign the value of one object to another object of the same class. It is a special member function that is automatically called when an object is assigned to another object of the same class. The assignment operator can be overloaded to provide custom behavior for assignment operations.
+// jese mene eek object banaya h1 and ek aur banaya h2 ab mujhe agatr h1 ko h2 ke equal karna h to mai assignment operator ka use karunga.
